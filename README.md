@@ -1,4 +1,4 @@
 misc
 ====
 
-Create a new repository for miscellaneous libs and tools.
+Repository for miscellaneous libs, tools and docs.
