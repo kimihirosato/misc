@@ -1,0 +1,10 @@
+{
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.minimap.enabled": false,
+    "editor.scrollBeyondLastLine": false,
+    "editor.renderWhitespace": "boundary",
+    "files.eol": "\n",
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
+}
