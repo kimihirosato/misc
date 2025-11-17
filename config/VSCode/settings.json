@@ -1,10 +1,12 @@
 {
-    "diffEditor.ignoreTrimWhitespace": false,
-    "editor.minimap.enabled": false,
-    "editor.scrollBeyondLastLine": false,
     "editor.renderWhitespace": "boundary",
+    "editor.scrollBeyondLastLine": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.minimap.autohide": "scroll",
     "files.eol": "\n",
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
-    "terminal.integrated.defaultProfile.windows": "Git Bash"
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.tabs.enabled": false,
+    "extensions.ignoreRecommendations": true
 }
